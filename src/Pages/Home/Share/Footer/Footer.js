@@ -30,7 +30,7 @@ const Footer = () => {
                     <div>
                          <span className="footer-title">About</span>
                         <p>Copyright © 2023 - All right reserved by Toothtopia Ltd</p>
-                        <p>Team Vulcan @NUB</p>
+                        <p>Team Vulcan 2.O @NUB</p>
                         <Link to='/about' className="link link-hover">Development Credit</Link>
                     </div>
                     
